@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "平安",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2026-02-26T15:46:37.570543Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "平安 / 約十四、彼前二 (Live)",
+      "artist": "同心圓·敬拜者使團 TWS",
+      "has_synced": false,
+      "path": "select/01_平安___約十四、彼前二_(Live)_同心圓·敬拜者使團_TWS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "平安",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/pl_01_平安_go!go!vanillas.txt"
+    }
+  ]
+}
